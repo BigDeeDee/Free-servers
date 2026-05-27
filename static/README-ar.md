@@ -1,0 +1,85 @@
+
+<div align="center">
+
+**Languages:**
+
+[![English](https://img.shields.io/badge/Language-English-red?style=for-the-badge)](README-en.md)
+[![Arabic](https://img.shields.io/badge/Language-Arabic-red?style=for-the-badge)](README-ar.md)
+[![German](https://img.shields.io/badge/Language-German-red?style=for-the-badge)](README-de.md)
+[![Vietnamese](https://img.shields.io/badge/Language-Vietnamese-red?style=for-the-badge)](README-vi.md)
+[![Indonesian](https://img.shields.io/badge/Language-Indonesian-red?style=for-the-badge)](README-id.md)
+[![Urdu](https://img.shields.io/badge/Language-Urdu-red?style=for-the-badge)](README-ur-PK.md)
+[![Portuguese](https://img.shields.io/badge/Language-Portuguese-red?style=for-the-badge)](README-pt-BR.md)
+[![Spanish](https://img.shields.io/badge/Language-Spanish-red?style=for-the-badge)](README-es.md)
+[![Russian](https://img.shields.io/badge/Language-Russian-red?style=for-the-badge)](README-ru.md)
+[![Polish](https://img.shields.io/badge/Language-Polish-red?style=for-the-badge)](README-pl.md)
+[![Korean](https://img.shields.io/badge/Language-Korean-red?style=for-the-badge)](README-ko-KR.md)
+[![French](https://img.shields.io/badge/Language-French-red?style=for-the-badge)](README-fr.md)
+[![Japanese](https://img.shields.io/badge/Language-Japanese-red?style=for-the-badge)](README-ja.md)
+[![Hindi](https://img.shields.io/badge/Language-Hindi-red?style=for-the-badge)](README-hi.md)
+[![Bangla](https://img.shields.io/badge/Language-Bangla-red?style=for-the-badge)](README-bn.md)
+
+</div>
+<h2>انقر للانضمام إلى مجموعة التواصل على تيليجرام:</h2>
+ <blockquote>
+ <p style="text-align: center;"><a href="https://t.me/shadowrocket_android">https://t.me/shadowrocket_android</a></p>
+ </blockquote>
+ <h2>العقدة المجانية وعنوان الاشتراك:</h2>
+ <blockquote>
+ <p style="text-align: center;">يتم تحديث العقد عالية الجودة بسرعة في الوقت الفعلي كل يوم، ويتم تحديثها كل 6 ساعات</p>
+ </blockquote>
+ <h4>في هذه الصفحة، قام شخص ما بقياس سرعة كل عقدة يدويًا في الوقت الفعلي، ولكن لا تزال هناك اختلافات في شبكات المشغلين في مناطق مختلفة، وقد تكون هناك عقد مهلة. </h4>
+ <blockquote>
+ <p style="text-align: center;">تناول الطعام -> النوم -> عقد الاختبار. </p>
+ </blockquote>
+ <h4>قائمة العقد: (يتم عرض 20 عقدة كحد أقصى هنا. تتوفر العقد المجانية الأخرى في التطبيق)</h4>
+    
+```
+vless://17ebee4e-97ea-4cad-8737-cc228478ca9d@lively-brook-c471.nedena3319.workers.dev:443?path=/?ed=2048&security=tls&encryption=none&host=lively-brook-c471.nedena3319.workers.dev&fp=chrome&type=ws&sni=lively-brook-c471.nedena3319.workers.dev#United+States
+vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@45.141.234.170:8443?security=reality&type=tcp&sni=www.google.com&fp=chrome&flow=xtls-rprx-vision&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&encryption=none#United+Kingdom
+vless://2e71d8fc-d2e8-44fc-89bd-c8a449a193aa@104.24.45.247:80?encryption=none&host=odd-bread-435d.ahmadrezasteamacc.workers.dev&path=%2F&security=none&type=ws#
+vless://30143e07-b734-4bd6-867c-7daf4782cccb@45.140.204.119:443?encryption=none&fp=chrome&headerType=none&pbk=vl5WQd9UDA3DvLxPPS1yF9ivUipxkxoxhaBRHpnyLho&security=reality&sid=67fb&sni=yahoo.com&type=raw#Israel
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpqUjJaR0VMdDlkUU9LTVNTYWQ1UU85TlBaakhwSW9aSHJwNTJYeE05MU1wSnFJem8=@78.138.17.187:41348#Canada
+vless://ef23616d-8a9d-4b22-b2f5-9bda864de179@172.67.163.213:2096/?type=ws&encryption=none&flow=&host=ems.arc-time.workers.dev&path=%2F88ailh3l64gh&security=tls&sni=EMS.Arc-Time.Workers.DEV&alpn=h3&allowInsecure=1&fp=chrome#United+States
+vless://10e82fcc-94ec-4d09-8855-579bb55b77e4@109.120.133.184:8443?encryption=none&flow=xtls-rprx-vision&fp=chrome&pbk=N0QyBaacGqSpRv_Ib4jsSx5A1kfE8IE1w0HcDB5w1BE&security=reality&sni=www.google.com&type=tcp#Russia
+ss://YWVzLTEyOC1nY206c2hhZG93c29ja3M=@156.146.38.170:443#United+States
+vless://bafacd98-136a-4530-838d-4e5c51838dac@188.226.180.209:443?ed=2560&eh=Sec-WebSocket-Protocol&encryption=none&host=juzi8186.qea.ccwu.cc&path=%2Fshows%2Fregister%2Fjuzibaipiao&security=tls&sni=juzi8186.qea.ccwu.cc&type=ws#The+Netherlands
+ss://Y2hhY2hhMjAtaWV0Zi1wb2x5MTMwNTpBUmd2R1p5d0ErZ2FjZ0dWMjZCdm11MDUrd1ptUlcvaitBZFUrWjhCdDQ0PQ==@147.78.0.182:990#United+Arab+Emirates
+vmess://eyJhZGQiOiAiMTUwLjIzMC40MS4xMzUiLCAiYWlkIjogIjAiLCAiYWxwbiI6IG51bGwsICJmcCI6IG51bGwsICJob3N0IjogInVzMDIuYTBhLnh5eiIsICJpZCI6ICJlZmJjZmQ4MC01ZjJmLTRlMzQtZjRhMC1jYzc1ZjBmNjdkZWMiLCAibmFtZSI6ICJcdWQ4M2NcdWRkZmFcdWQ4M2NcdWRkZjggVVMgMjciLCAibmV0IjogIndzIiwgInBhdGgiOiAiL2NjdHYxMy5tM3U4IiwgInBvcnQiOiA4MCwgInBzIjogIlVuaXRlZCBTdGF0ZXMiLCAic2N5IjogImF1dG8iLCAic2tpcC1jZXJ0LXZlcmlmeSI6IHRydWUsICJzbmkiOiBudWxsLCAidGxzIjogIiIsICJ0eXBlIjogbnVsbCwgInYiOiBudWxsfQ==
+vless://6202b230-417c-4d8e-b624-0f71afa9c75d@94.140.0.40:8880?encryption=none&security=none&type=ws&host=vms.lifetime26.workers.dev&path=%2F%3Fhttps%3A%2F%2Ft.me%2FYouTube%40%E5%B0%8F%E9%9D%92%E7%A7%91%E5%AD%A6%E7%BD%91%F0%9F%87%A8%F0%9F%87%B3#United+Arab+Emirates
+```
+<h5>عنوان الاشتراك الدائم للعقدة العليا (جزء): https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar</h5>
+ <p>رمز الاستجابة السريعة لعنوان الاشتراك أعلاه</p>
+ <img src='https://raw.githubusercontent.com/Pawdroid/Free-servers/main/static/sub_ar.png' width=250 height=250>
+ <blockquote style='text-align: center;'>لمزيد من العقد وعناوين الاشتراك المجانية وتحويلات الاشتراك، يرجى تنزيل برنامج تطبيق العقدة المشتركة الذي يوفره هذا الموقع <a href='https://shadowsharing.com'>ShadowShare </a> تصدير استخدام العقدة، ودعم تنزيلات iOS وAndroid، ويُنصح مستخدمو Android باستخدام <a href='https://github.com/Pawdroid/shadowrocket_for_android'>shadowrocket مباشرة لنظام Android</a> Android Rocket، مع جميع العقد المجانية المضمنة . </blockquote>
+ <h4>من المستحسن أن يقوم مستخدمو iOS المحليون <a href='https://apps.apple.com/cn/app/shadowshare/id1612647259'>بتنزيل App Store</a> وحفظه في أقرب وقت ممكن يمكن تنزيله في وقت ما في المستقبل</h4>
+ <h4>يدعم أحدث إصدار من شبكة VPN عالية السرعة والجودة <a href='https://pawdollvpn.com'>PawdollVPN</a> منصات Android iOS، ونرحب بتنزيله واستخدامه يتم توفير نسخة تجريبية مجانية غير محدودة لفترة محدودة. </h4>
+ <div class="nv-content-wrap input-content">
+ <h2>تحويل عناوين اشتراكات العميل مثل Clash وSS بنقرة واحدة:</h2>
+ <p>إذا لم يتمكن عميل SS/SSR/V2ray من استخدام رابط عقدة SSR مباشرةً، فاستخدم الأداة المرتبطة أدناه لتحويله إلى عنوان اشتراك، ثم SSR/SSD/Surge/Quantum/Surfboard/Loon وعملاء الهاتف المحمول والكمبيوتر الآخرين يمكن استخدامها هنا:</p>
+ <p><a href="https://acl4ssr-sub.github.io" target="_blank" rel="noreferrer noopener nofollow">https://acl4ssr-sub.github.io</a></p>
+ <h2>تنزيل عميل V2ray/SSR Android لجهاز iPhone/PC</h2>
+ <h3>تنزيل عميل V2Ray</h3>
+ <p>تتوفر أيضًا روابط تنزيل لأحدث إصدارات عميل V2ray Windows، وعميل V2ray Android، وعميل V2ray MacOS لأجهزة كمبيوتر Apple، وعميل V2ray iOS لأجهزة iPhone، وعميل V2ray Linux. </p>
+ <h4>Windows7/8/10-<strong>V2ray WinPC Computer Client</strong>تنزيل البرنامج</h4>
+ <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>تنزيل V2rayN</td><td><a href="https://github. com/2dust/v2rayN/releases" target="_blank" rel="noreferrer noopener">تنزيل الموقع الرسمي</a></td></tr><tr><td>تنزيل V2rayW</td><td> <a href="https://github.com/Cenmrev/V2RayW/releases" target="_blank" rel="noreferrer noopener">تنزيل الموقع الرسمي</a></td></tr><tr><td> تنزيل Clash</td><td><a href="https://github.com/Fndroid/clash_for_windows_pkg/releases" target="_blank" rel="noreferrer noopener">تنزيل الموقع الرسمي</a></td> </tr><tr><td>تنزيل V2rayS</td><td><a href="https://github.com/Shinlor/V2RayS/releases" target="_blank" rel="noreferrer noopener"> تنزيل الموقع الرسمي</a></td></tr><tr><td>تنزيل هادئ</td><td><a href="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">تنزيل الموقع الرسمي</a></td></tr><tr><td>تنزيل Qv2ray</td><td><a href= "https://github.com/Qv2ray/Qv2ray" target="_blank" rel="noreferrer noopener">تنزيل الموقع الرسمي</a></td></tr></tbody></table></figure>
+ <h4><strong>عميل الهاتف المحمول Android/Xiaomi MIUI/Huawei EMUI-V2ray Android</strong>تنزيل برنامج APK</h4>
+ <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>تنزيل V2rayNG</td><td><a href="https://github. com/2dust/v2rayNG/releases" target="_blank" rel="noreferrer noopener">تنزيل الموقع الرسمي</a></td></tr><tr><td>تنزيل Android Rocket</td><td><a href="https://github.com/Pawdroid/shadowrocket_for_android/releases" target="_blank" rel="noreferrer noopener">تنزيل الموقع الرسمي</a></td></tr><tr> <td>تنزيل BifrostV</td><td><a rel="noreferrer noopener" href="https://www.appsapk.com/downloading/latest/com.github.dawndiy.bifrostv-0.6.8.apk " target="_blank">تنزيل السوق</a></td></tr><tr><td>تنزيل Clash</td><td><a href="https://github.com/Kr328/ClashForAndroid/releases" target="_blank" rel="noreferrer noopener">تنزيل الموقع الرسمي</a></td></tr><tr><td>تنزيل Kitsunebi</td><td><a rel =" noreferrer noopener" href="https://apkpure.com/kitsunebi/fun.kitsunebi.kitsunebi4android" target="_blank">تنزيل السوق</a></td></tr></tbody></table></figure>
+ <h4><strong>MacOS-V2ray <strong>كمبيوتر Apple</strong>العميل</strong>تنزيل البرنامج</h4>
+ <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>تنزيل V2rayU</td><td><a href="https://github. com/yanue/V2rayU/releases" target="_blank" rel="noreferrer noopener">تنزيل الموقع الرسمي</a></td></tr><tr><td>تنزيل V2rayX</td><td> <a href="https://github.com/Cenmrev/V2RayX/releases" target="_blank" rel="noreferrer noopener">تنزيل الموقع الرسمي</a></td></tr><tr><td> تنزيل ClashX</td><td><a href="https://github.com/yichengchen/clashX/releases" target="_blank" rel="noreferrer noopener">تنزيل الموقع الرسمي</a></td> </tr></tbody></table></figure>
+ <h4><strong>Linux</strong>–<strong>عميل الكمبيوتر V2ray Ubuntu/Centos</strong>تنزيل البرنامج</h4>
+ <figure class="wp-block-table alignwide is-style-stripes"><table><tbody><tr><td>تنزيل Qv2ray</td><td><a href="https://github. com/Qv2ray/Qv2ray" target="_blank" rel="noreferrer noopener">تنزيل الموقع الرسمي</a></td></tr><tr><td>تنزيل هادئ</td><td><a href ="https://github.com/mellow-io/mellow/releases" target="_blank" rel="noreferrer noopener">تنزيل الموقع الرسمي</a></td></tr><tr><td> تنزيل V2rayL</td><td><a rel="noreferrer noopener" href="https://github.com/jiangxufeng/v2rayL" target="_blank">وثيقة التثبيت الرسمية</a></td></tr></tbody></table></figure>
+ <h4>iOS-<strong>V2ray Apple<strong>Mobile Client</strong>برنامج التطبيقات</strong>التنزيل</h4>
+ <p>لا يوجد عميل V2ray iOS مجاني في سوق Apple AppStore، وتتوفر حاليًا تطبيقات مدفوعة مثل Shadowrocket وpepi وi2Ray وKitsunebi وQuantumult. </p>
+ <h3>تنزيل عميل ShadowsocksR/SSR</h3>
+ <p>يتم اختصار ShadowsocksR كـ SSR، ولها أيضًا ألقاب لطيفة مثل الزبادي الحامض، والطائرة الوردية، والطائرة الورقية، والتي يتم استخدامها على نطاق واسع. </p>
+ <p>لقد قمنا بتجميع عناوين التنزيل لأحدث إصدارات عميل SSR Windows وعميل SSR Android وعميل SSR MacOS لأجهزة كمبيوتر Apple وعميل SSR iOS لهواتف Apple لمشاركتها مع الجميع. </p>
+ <h4><strong>وايndows7/8/10-<strong>SSR Small Plane WinPC Computer Client</strong>تنزيل البرنامج</strong></h4>
+ <p><a rel="noreferrer noopener" href="https://github.com/shadowsocksrr/shadowsocksr-csharp/releases" target="_blank">تنزيل الموقع الرسمي</a></p>
+ <h4><strong><strong>عميل الهاتف المحمول Android/Xiaomi MIUI/Huawei EMUI-SSR ذو الطائرة الصغيرة</strong>تنزيل برنامج APK</strong></h4>
+ <p><a rel="noreferrer noopener" href="https://github.com/shadowsocksrr/shadowsocksr-android/releases" target="_blank">تنزيل الموقع الرسمي</a></p>
+ <h4><strong><strong>عميل كمبيوتر Apple ذو الطائرة الصغيرة MacOS-SSR</strong>تنزيل البرنامج</strong></h4>
+ <p><a href="https://github.com/qinyuhang/ShadowsocksX-NG-R/releases" target="_blank" rel="noreferrer noopener">تنزيل الموقع الرسمي</a></p>
+ <h4><strong>iOS-<strong>تطبيق SSR Small Plane Apple Mobile Client</strong></strong>تنزيل</h4>
+ <p>افتح Apple App Store على iPhone أو iPad وابحث عن Mume وPotatso Lite وFastSocks وShadowrocket. </p></div>
+    
